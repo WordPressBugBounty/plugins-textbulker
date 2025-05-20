@@ -1,0 +1,47 @@
+msgid "TextBulker"
+msgstr ""
+
+msgid "Official integration plugin for TextBulker.com – the AI-powered platform for automated content publishing and SEO optimization."
+msgstr ""
+
+msgid "TextBulker Settings"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Expose Yoast Metadata"
+msgstr ""
+
+msgid "Expose Rank Math Metadata"
+msgstr ""
+
+msgid "Main Settings"
+msgstr ""
+
+msgid "Diagnostics"
+msgstr ""
+
+msgid "Yoast SEO active"
+msgstr ""
+
+msgid "Yoast SEO inactive or missing"
+msgstr ""
+
+msgid "Yoast exposure enabled"
+msgstr ""
+
+msgid "Yoast exposure disabled"
+msgstr ""
+
+msgid "Rank Math active"
+msgstr ""
+
+msgid "Rank Math inactive or missing"
+msgstr ""
+
+msgid "Rank Math exposure enabled"
+msgstr ""
+
+msgid "Rank Math exposure disabled"
+msgstr ""

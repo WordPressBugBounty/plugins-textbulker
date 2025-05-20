@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "TextBulker"
+msgstr "TextBulker (FR)"
+
+msgid "Official integration plugin for TextBulker.com – the AI-powered platform for automated content publishing and SEO optimization."
+msgstr "Extension officielle pour TextBulker.com – plateforme IA de génération d’articles et d’optimisation SEO."
+
+msgid "Settings"
+msgstr "Réglages"
+
+msgid "TextBulker Settings"
+msgstr "Paramètres de TextBulker"
+
+msgid "Expose Yoast Metadata"
+msgstr "Exposer les métadonnées Yoast"
+
+msgid "Expose Rank Math Metadata"
+msgstr "Exposer les métadonnées Rank Math"
+
+msgid "Main Settings"
+msgstr "Paramètres principaux"
+
+msgid "Diagnostics"
+msgstr "Diagnostics"
+
+msgid "Yoast SEO active"
+msgstr "Yoast SEO actif"
+
+msgid "Yoast SEO inactive or missing"
+msgstr "Yoast SEO inactif ou manquant"
+
+msgid "Yoast exposure enabled"
+msgstr "Exposition Yoast activée"
+
+msgid "Yoast exposure disabled"
+msgstr "Exposition Yoast désactivée"
+
+msgid "Rank Math active"
+msgstr "Rank Math actif"
+
+msgid "Rank Math inactive or missing"
+msgstr "Rank Math inactif ou manquant"
+
+msgid "Rank Math exposure enabled"
+msgstr "Exposition Rank Math activée"
+
+msgid "Rank Math exposure disabled"
+msgstr "Exposition Rank Math désactivée"
